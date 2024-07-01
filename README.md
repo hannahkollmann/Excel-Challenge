@@ -25,9 +25,9 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
   * Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
   * Now, create a pivot-chart line graph that visualizes this new table.
 * Create a report in Microsoft Word, and answer the following questions:
-  * Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
-  * What are some limitations of this dataset?
-  * What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+  1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+  2. What are some limitations of this dataset?
+  3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
 
 
